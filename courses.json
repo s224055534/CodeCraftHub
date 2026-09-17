@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "React Fundamentals",
+    "description": "React Fundamentals is an introductory course designed to help beginners build interactive web pages with React. You’ll learn the basics of components, props, and state, and practice creating simple, reusable UI elements. By the end, you’ll understand how React makes it easier to manage dynamic content and start building modern front‑end applications with confidence.",
+    "target_date": "2026-09-09",
+    "status": "In Progress",
+    "created_at": "2026-09-17T12:40:34.361Z"
+  }
+]

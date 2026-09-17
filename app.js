@@ -4,10 +4,11 @@
 const express = require("express");
 const fs = require("node:fs/promises");
 const path = require("node:path");
+const cors = require("cors");
 
 // Create the Express application.
 const app = express();
-
+app.use(cors());
 // The server must run on port 5000.
 const PORT = 5000;
 
